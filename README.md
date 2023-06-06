@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Typhub7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning more and more about front and back end
+- 🌱 I’m currently learning javascript python
 - 💞️ I’m looking to collaborate on project for noob :)
 - 📫 How to reach me ... that's a good question.
 
