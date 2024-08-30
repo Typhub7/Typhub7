@@ -16,7 +16,13 @@ Passionnée par le développement web, je me spécialise dans les technologies f
 - **[Les petits plats](https://typhub7.github.io/Les-Petits-plats/)** : À partir d’une maquette Figma, réalisation des algorithmes de tris multicritères d’un site de recettes de cuisine.
 
 ## 🌱 **Ce que j'apprends actuellement**
-Toujours curieuse et désireuse d'améliorer mes compétences, je me forme actuellement à l'usage de différentes UI (Ant Design, Chakra UI, Shadcn,...)
+Toujours curieuse et désireuse d'améliorer mes compétences, je me forme actuellement à l'usage de différentes bibliothèques d'interfaces utilisateur telles qu'Ant Design, Chakra UI, et Shadcn. Mon objectif est de maîtriser divers frameworks UI pour pouvoir adapter mes choix technologiques en fonction des besoins spécifiques de chaque projet. En explorant ces outils, je cherche à :
+
+- **Optimiser la productivité :** Chaque bibliothèque offre des composants prêts à l'emploi qui accélèrent le développement, tout en garantissant une expérience utilisateur cohérente et esthétique.
+- **Améliorer la flexibilité :** Connaître plusieurs frameworks me permet de m'adapter facilement aux préférences ou exigences des équipes avec lesquelles je collabore.
+- **Enrichir l'expérience utilisateur :** Ces bibliothèques proposent des styles modernes et intuitifs, qui permettent de créer des interfaces plus engageantes et accessibles.
+
+En m'investissant dans l'apprentissage de ces outils, je m'assure de pouvoir offrir des solutions front-end à la fois performantes et élégantes, tout en respectant les standards de qualité et de design modernes.
 
 ## 💼 **Collaboration**
 Je suis ouverte à des collaborations sur des projets intéressants, qu’il s’agisse de développement front-end, back-end, ou d'amélioration de la qualité logicielle. Si vous avez une idée de projet ou besoin d'un coup de main, n'hésitez pas à me contacter !
