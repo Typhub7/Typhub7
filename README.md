@@ -15,7 +15,7 @@ Passionnée par le développement web, je me spécialise dans les technologies f
 - **[Sportsee](https://typhub7.github.io/SportSee/)** : Réalisation d’un tableau de bord avec usages de graphiques recharts et récupération des données via une api.
 - **[Les petits plats](https://typhub7.github.io/Les-Petits-plats/)** : À partir d’une maquette Figma, réalisation des algorithmes de tris multicritères d’un site de recettes de cuisine.
 
-## 🌱 **Ce que j'apprends actuellement**
+## 🌱 **Ce que je développe actuellement**
 Toujours curieuse et désireuse d'améliorer mes compétences, je me forme actuellement à l'usage de différentes bibliothèques d'interfaces utilisateur telles qu'Ant Design, Chakra UI, et Shadcn. Mon objectif est de maîtriser divers frameworks UI pour pouvoir adapter mes choix technologiques en fonction des besoins spécifiques de chaque projet. En explorant ces outils, je cherche à :
 
 - **Optimiser la productivité :** Chaque bibliothèque offre des composants prêts à l'emploi qui accélèrent le développement, tout en garantissant une expérience utilisateur cohérente et esthétique.
